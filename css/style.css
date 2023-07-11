@@ -1,0 +1,12 @@
+.taimer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 20px;
+	width: 700px;
+	height: 500px;
+	background-color: blue;
+	margin: 0 auto;
+	font-size: 70px;
+	color: #eee;
+}
